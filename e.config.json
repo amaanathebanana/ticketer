@@ -1,0 +1,18 @@
+{
+    "token": "", 
+    "clientID": "",
+    "databaseURL": "",
+    "applicationTicketSettings": [{
+        "applicationRole": "",
+        "parentId": ""
+    }],
+    "supportTicketSettings": [{
+        "pingRole": "",
+        "supportRole": ""
+    }],
+    "reportTicketSettings": [{
+        "reportRole": "",
+        "parentId": ""
+    }],
+    "logChannelId": ""
+}
